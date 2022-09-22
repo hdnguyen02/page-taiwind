@@ -2,7 +2,7 @@
     import VueSession from './slots/VueSession.vue'
 </script>
 <template>
-    <section class="flex flex-col justify-center bg-gray-200 relative pt-24">
+    <section class="flex flex-col justify-center bg-gray-200 relative py-24">
         <div class="container">
 
             <!-- introduce -->

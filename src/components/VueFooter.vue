@@ -14,7 +14,6 @@
                 <a href=""><i class="text-3xl fa-brands fa-facebook"></i></a>
                 <a href=""><i class="text-3xl fa-brands fa-instagram"></i></a>
             </div>
-            
         </div>
     </footer>
 </template>
