@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+.button {
+    @apply shadow-md py-3 px-6 rounded-lg transition duration-300; 
+}
+
+.button-purple {
+    @apply text-white bg-bookmark-purple; 
+}
+.button-white {
+    @apply bg-bookmark-white; 
+}
